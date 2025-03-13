@@ -1,0 +1,3 @@
+[build]
+  command = ""  # No build command needed
+  publish = "/"  # Ensure the root is the published directory
